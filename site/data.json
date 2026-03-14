@@ -52583,6 +52583,34 @@
       "subtype": "Elliptical",
       "type": "GymCardio",
       "year": 2026
+    },
+    {
+      "date": "2026-03-13",
+      "hour": 10,
+      "subtype": "Elliptical",
+      "type": "GymCardio",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-13",
+      "hour": 13,
+      "subtype": "Walk",
+      "type": "WalkHike",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-13",
+      "hour": 15,
+      "subtype": "Workout",
+      "type": "GymCardio",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-13",
+      "hour": 14,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -103217,6 +103245,16 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4954.0
+        },
+        "2026-03-13": {
+          "activity_ids": [
+            17709180805,
+            17711769135
+          ],
+          "count": 2,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 7659.0
         }
       },
       "Ride": {
@@ -103367,6 +103405,15 @@
           "distance": 3233.9,
           "elevation_gain": 0.0,
           "moving_time": 855.0
+        },
+        "2026-03-13": {
+          "activity_ids": [
+            17711769177
+          ],
+          "count": 1,
+          "distance": 3230.7,
+          "elevation_gain": 0.0,
+          "moving_time": 848.0
         }
       },
       "WalkHike": {
@@ -103937,11 +103984,20 @@
           "distance": 2408.4,
           "elevation_gain": 24.0,
           "moving_time": 1656.0
+        },
+        "2026-03-13": {
+          "activity_ids": [
+            17710385597
+          ],
+          "count": 1,
+          "distance": 1700.8,
+          "elevation_gain": 13.0,
+          "moving_time": 1106.0
         }
       }
     }
   },
-  "generated_at": "2026-03-13T15:44:42.619860+00:00",
+  "generated_at": "2026-03-14T15:30:47.879324+00:00",
   "other_bucket": "OtherSports",
   "type_meta": {
     "GymCardio": {
