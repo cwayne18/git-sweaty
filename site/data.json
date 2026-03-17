@@ -52667,6 +52667,34 @@
       "subtype": "Workout",
       "type": "GymCardio",
       "year": 2026
+    },
+    {
+      "date": "2026-03-16",
+      "hour": 13,
+      "subtype": "Walk",
+      "type": "WalkHike",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-16",
+      "hour": 14,
+      "subtype": "Elliptical",
+      "type": "GymCardio",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 9,
+      "subtype": "Elliptical",
+      "type": "GymCardio",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 11,
+      "subtype": "Walk",
+      "type": "WalkHike",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -103331,6 +103359,24 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 12345.0
+        },
+        "2026-03-16": {
+          "activity_ids": [
+            17746353069
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4723.0
+        },
+        "2026-03-17": {
+          "activity_ids": [
+            17754769066
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4259.0
         }
       },
       "Ride": {
@@ -104097,11 +104143,29 @@
           "distance": 7436.8,
           "elevation_gain": 48.0,
           "moving_time": 4826.0
+        },
+        "2026-03-16": {
+          "activity_ids": [
+            17744453113
+          ],
+          "count": 1,
+          "distance": 1625.1,
+          "elevation_gain": 13.0,
+          "moving_time": 1051.0
+        },
+        "2026-03-17": {
+          "activity_ids": [
+            17755315380
+          ],
+          "count": 1,
+          "distance": 1671.7,
+          "elevation_gain": 11.0,
+          "moving_time": 1065.0
         }
       }
     }
   },
-  "generated_at": "2026-03-16T16:06:43.254749+00:00",
+  "generated_at": "2026-03-17T16:07:18.925682+00:00",
   "other_bucket": "OtherSports",
   "type_meta": {
     "GymCardio": {
