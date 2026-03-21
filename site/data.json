@@ -52744,6 +52744,41 @@
       "subtype": "Elliptical",
       "type": "GymCardio",
       "year": 2026
+    },
+    {
+      "date": "2026-03-20",
+      "hour": 11,
+      "subtype": "Walk",
+      "type": "WalkHike",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-20",
+      "hour": 13,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-20",
+      "hour": 13,
+      "subtype": "Workout",
+      "type": "GymCardio",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-20",
+      "hour": 15,
+      "subtype": "Walk",
+      "type": "WalkHike",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-21",
+      "hour": 9,
+      "subtype": "Elliptical",
+      "type": "GymCardio",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -103448,12 +103483,22 @@
         },
         "2026-03-20": {
           "activity_ids": [
-            17791958721
+            17791958721,
+            17794309184
+          ],
+          "count": 2,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 6645.0
+        },
+        "2026-03-21": {
+          "activity_ids": [
+            17803971180
           ],
           "count": 1,
           "distance": 0.0,
           "elevation_gain": 0.0,
-          "moving_time": 4200.0
+          "moving_time": 5610.0
         }
       },
       "Ride": {
@@ -103631,6 +103676,15 @@
           "distance": 3231.8,
           "elevation_gain": 0.0,
           "moving_time": 859.0
+        },
+        "2026-03-20": {
+          "activity_ids": [
+            17793858733
+          ],
+          "count": 1,
+          "distance": 3230.5,
+          "elevation_gain": 0.0,
+          "moving_time": 853.0
         }
       },
       "WalkHike": {
@@ -104265,11 +104319,21 @@
           "distance": 1610.7,
           "elevation_gain": 18.0,
           "moving_time": 1059.0
+        },
+        "2026-03-20": {
+          "activity_ids": [
+            17792403307,
+            17795092092
+          ],
+          "count": 2,
+          "distance": 3660.4,
+          "elevation_gain": 30.0,
+          "moving_time": 3503.0
         }
       }
     }
   },
-  "generated_at": "2026-03-20T15:44:45.925158+00:00",
+  "generated_at": "2026-03-21T15:28:30.029269+00:00",
   "other_bucket": "OtherSports",
   "type_meta": {
     "GymCardio": {
