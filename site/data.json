@@ -52779,6 +52779,41 @@
       "subtype": "Elliptical",
       "type": "GymCardio",
       "year": 2026
+    },
+    {
+      "date": "2026-03-21",
+      "hour": 13,
+      "subtype": "Walk",
+      "type": "WalkHike",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-21",
+      "hour": 14,
+      "subtype": "Workout",
+      "type": "GymCardio",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-21",
+      "hour": 15,
+      "subtype": "Workout",
+      "type": "GymCardio",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-21",
+      "hour": 17,
+      "subtype": "Workout",
+      "type": "GymCardio",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-22",
+      "hour": 9,
+      "subtype": "Elliptical",
+      "type": "GymCardio",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -103493,12 +103528,24 @@
         },
         "2026-03-21": {
           "activity_ids": [
-            17803971180
+            17803971180,
+            17807442216,
+            17807950543,
+            17808431782
+          ],
+          "count": 4,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 14179.0
+        },
+        "2026-03-22": {
+          "activity_ids": [
+            17817275042
           ],
           "count": 1,
           "distance": 0.0,
           "elevation_gain": 0.0,
-          "moving_time": 5610.0
+          "moving_time": 4228.0
         }
       },
       "Ride": {
@@ -104329,11 +104376,20 @@
           "distance": 3660.4,
           "elevation_gain": 30.0,
           "moving_time": 3503.0
+        },
+        "2026-03-21": {
+          "activity_ids": [
+            17806457338
+          ],
+          "count": 1,
+          "distance": 1636.1,
+          "elevation_gain": 20.0,
+          "moving_time": 1062.0
         }
       }
     }
   },
-  "generated_at": "2026-03-21T15:28:30.029269+00:00",
+  "generated_at": "2026-03-22T15:28:52.612232+00:00",
   "other_bucket": "OtherSports",
   "type_meta": {
     "GymCardio": {
