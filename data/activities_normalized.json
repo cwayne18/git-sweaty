@@ -83235,5 +83235,93 @@
     "start_date_local": "2026-03-30T08:40:18Z",
     "type": "GymCardio",
     "year": 2026
+  },
+  {
+    "date": "2026-03-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": 17914045930,
+    "moving_time": 3077.0,
+    "raw_type": "Elliptical",
+    "start_date_local": "2026-03-30T11:32:24Z",
+    "type": "GymCardio",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-30",
+    "distance": 1628.8,
+    "elevation_gain": 20.0,
+    "id": 17914280613,
+    "moving_time": 1086.0,
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-30T12:24:27Z",
+    "type": "WalkHike",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-30",
+    "distance": 3231.9,
+    "elevation_gain": 0.0,
+    "id": 17915866451,
+    "moving_time": 847.0,
+    "raw_type": "Run",
+    "start_date_local": "2026-03-30T14:26:29Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": 17916332412,
+    "moving_time": 2455.0,
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-30T14:41:36Z",
+    "type": "GymCardio",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-30",
+    "distance": 1652.4,
+    "elevation_gain": 18.0,
+    "id": 17916995986,
+    "moving_time": 1096.0,
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-30T16:17:49Z",
+    "type": "WalkHike",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-30",
+    "distance": 1697.7,
+    "elevation_gain": 10.0,
+    "id": 17917495684,
+    "moving_time": 1401.0,
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-30T17:00:04Z",
+    "type": "WalkHike",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": 17925758807,
+    "moving_time": 4237.0,
+    "raw_type": "Elliptical",
+    "start_date_local": "2026-03-31T09:37:14Z",
+    "type": "GymCardio",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 1637.5,
+    "elevation_gain": 17.0,
+    "id": 17926390670,
+    "moving_time": 1070.0,
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-31T11:25:16Z",
+    "type": "WalkHike",
+    "year": 2026
   }
 ]
