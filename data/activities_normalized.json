@@ -83378,5 +83378,27 @@
     "start_date_local": "2026-04-01T11:27:55Z",
     "type": "WalkHike",
     "year": 2026
+  },
+  {
+    "date": "2026-04-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": 17951017105,
+    "moving_time": 5182.0,
+    "raw_type": "Elliptical",
+    "start_date_local": "2026-04-02T09:40:32Z",
+    "type": "GymCardio",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-02",
+    "distance": 1674.4,
+    "elevation_gain": 11.0,
+    "id": 17951396269,
+    "moving_time": 1129.0,
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-02T11:21:34Z",
+    "type": "WalkHike",
+    "year": 2026
   }
 ]
