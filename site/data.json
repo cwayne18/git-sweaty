@@ -53255,6 +53255,48 @@
       "subtype": "Walk",
       "type": "WalkHike",
       "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 10,
+      "subtype": "Elliptical",
+      "type": "GymCardio",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 14,
+      "subtype": "Elliptical",
+      "type": "GymCardio",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 15,
+      "subtype": "Walk",
+      "type": "WalkHike",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 15,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 15,
+      "subtype": "Workout",
+      "type": "GymCardio",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 9,
+      "subtype": "Elliptical",
+      "type": "GymCardio",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -104170,6 +104212,26 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5451.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            18068464234,
+            18070750546,
+            18071175221
+          ],
+          "count": 3,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 7824.0
+        },
+        "2026-04-12": {
+          "activity_ids": [
+            18081370979
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5260.0
         }
       },
       "Ride": {
@@ -104392,6 +104454,15 @@
           "distance": 3227.3,
           "elevation_gain": 0.0,
           "moving_time": 840.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            18070906491
+          ],
+          "count": 1,
+          "distance": 1619.3,
+          "elevation_gain": 0.0,
+          "moving_time": 421.0
         }
       },
       "WalkHike": {
@@ -105225,11 +105296,20 @@
           "distance": 3700.2,
           "elevation_gain": 49.0,
           "moving_time": 2656.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            18070750563
+          ],
+          "count": 1,
+          "distance": 1599.5,
+          "elevation_gain": 21.0,
+          "moving_time": 964.0
         }
       }
     }
   },
-  "generated_at": "2026-04-11T15:35:40.470235+00:00",
+  "generated_at": "2026-04-12T15:38:07.585241+00:00",
   "other_bucket": "OtherSports",
   "type_meta": {
     "GymCardio": {
