@@ -86425,5 +86425,16 @@
     "start_date_local": "2026-07-06T09:36:23Z",
     "type": "GymCardio",
     "year": 2026
+  },
+  {
+    "date": "2026-07-06",
+    "distance": 1782.0,
+    "elevation_gain": 13.0,
+    "id": 19203777937,
+    "moving_time": 1078.0,
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-06T13:08:41Z",
+    "type": "WalkHike",
+    "year": 2026
   }
 ]
