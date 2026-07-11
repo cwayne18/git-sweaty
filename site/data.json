@@ -55061,6 +55061,27 @@
       "subtype": "Elliptical",
       "type": "GymCardio",
       "year": 2026
+    },
+    {
+      "date": "2026-07-10",
+      "hour": 11,
+      "subtype": "Elliptical",
+      "type": "GymCardio",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-10",
+      "hour": 15,
+      "subtype": "Walk",
+      "type": "WalkHike",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-10",
+      "hour": 15,
+      "subtype": "Elliptical",
+      "type": "GymCardio",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -106862,6 +106883,16 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5883.0
+        },
+        "2026-07-10": {
+          "activity_ids": [
+            19257954880,
+            19260138498
+          ],
+          "count": 2,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4713.0
         }
       },
       "Ride": {
@@ -108625,11 +108656,20 @@
           "distance": 1386.2,
           "elevation_gain": 18.0,
           "moving_time": 895.0
+        },
+        "2026-07-10": {
+          "activity_ids": [
+            19259927233
+          ],
+          "count": 1,
+          "distance": 762.7,
+          "elevation_gain": 7.0,
+          "moving_time": 611.0
         }
       }
     }
   },
-  "generated_at": "2026-07-10T15:49:37.798602+00:00",
+  "generated_at": "2026-07-11T15:23:34.761085+00:00",
   "other_bucket": "OtherSports",
   "type_meta": {
     "GymCardio": {
