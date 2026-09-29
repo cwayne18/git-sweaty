@@ -88944,5 +88944,16 @@
     "start_date_local": "2026-09-28T14:16:30Z",
     "type": "GymCardio",
     "year": 2026
+  },
+  {
+    "date": "2026-09-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": 20382981795,
+    "moving_time": 4614.0,
+    "raw_type": "Elliptical",
+    "start_date_local": "2026-09-29T13:36:03Z",
+    "type": "GymCardio",
+    "year": 2026
   }
 ]
