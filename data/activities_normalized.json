@@ -88955,5 +88955,49 @@
     "start_date_local": "2026-09-29T13:36:03Z",
     "type": "GymCardio",
     "year": 2026
+  },
+  {
+    "date": "2026-09-29",
+    "distance": 1033.8,
+    "elevation_gain": 9.0,
+    "id": 20383908737,
+    "moving_time": 778.0,
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-29T16:10:23Z",
+    "type": "WalkHike",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": 20395422962,
+    "moving_time": 3787.0,
+    "raw_type": "Elliptical",
+    "start_date_local": "2026-09-30T11:33:55Z",
+    "type": "GymCardio",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": 20396587888,
+    "moving_time": 2578.0,
+    "raw_type": "Workout",
+    "start_date_local": "2026-09-30T13:15:09Z",
+    "type": "GymCardio",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": 20397163882,
+    "moving_time": 1798.0,
+    "raw_type": "Elliptical",
+    "start_date_local": "2026-09-30T14:07:04Z",
+    "type": "GymCardio",
+    "year": 2026
   }
 ]
