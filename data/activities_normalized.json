@@ -89054,5 +89054,16 @@
     "start_date_local": "2026-10-02T15:13:28Z",
     "type": "WalkHike",
     "year": 2026
+  },
+  {
+    "date": "2026-10-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": 20434495658,
+    "moving_time": 4589.0,
+    "raw_type": "Elliptical",
+    "start_date_local": "2026-10-03T09:18:49Z",
+    "type": "GymCardio",
+    "year": 2026
   }
 ]
