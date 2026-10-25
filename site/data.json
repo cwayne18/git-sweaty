@@ -57126,6 +57126,34 @@
       "subtype": "Workout",
       "type": "GymCardio",
       "year": 2026
+    },
+    {
+      "date": "2026-10-24",
+      "hour": 13,
+      "subtype": "Elliptical",
+      "type": "GymCardio",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-24",
+      "hour": 14,
+      "subtype": "Walk",
+      "type": "WalkHike",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-25",
+      "hour": 8,
+      "subtype": "Elliptical",
+      "type": "GymCardio",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-25",
+      "hour": 10,
+      "subtype": "Walk",
+      "type": "WalkHike",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -109970,12 +109998,22 @@
         },
         "2026-10-24": {
           "activity_ids": [
-            20714290250
+            20714290250,
+            20716608377
+          ],
+          "count": 2,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 7702.0
+        },
+        "2026-10-25": {
+          "activity_ids": [
+            20726564166
           ],
           "count": 1,
           "distance": 0.0,
           "elevation_gain": 0.0,
-          "moving_time": 3562.0
+          "moving_time": 5538.0
         }
       },
       "Ride": {
@@ -112537,11 +112575,29 @@
           "distance": 3755.3,
           "elevation_gain": 17.0,
           "moving_time": 2343.0
+        },
+        "2026-10-24": {
+          "activity_ids": [
+            20716674706
+          ],
+          "count": 1,
+          "distance": 631.3,
+          "elevation_gain": 454.0,
+          "moving_time": 469.0
+        },
+        "2026-10-25": {
+          "activity_ids": [
+            20727285717
+          ],
+          "count": 1,
+          "distance": 1639.6,
+          "elevation_gain": 13.0,
+          "moving_time": 1069.0
         }
       }
     }
   },
-  "generated_at": "2026-10-24T17:55:02.814991+00:00",
+  "generated_at": "2026-10-25T18:12:50.826958+00:00",
   "other_bucket": "OtherSports",
   "type_meta": {
     "GymCardio": {
