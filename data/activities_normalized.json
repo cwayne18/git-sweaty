@@ -90506,5 +90506,38 @@
     "start_date_local": "2026-11-16T16:50:04Z",
     "type": "WalkHike",
     "year": 2026
+  },
+  {
+    "date": "2026-11-17",
+    "distance": 5072.0,
+    "elevation_gain": 25.0,
+    "id": 21017197390,
+    "moving_time": 1668.0,
+    "raw_type": "Run",
+    "start_date_local": "2026-11-17T05:41:19Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": 21017458464,
+    "moving_time": 3472.0,
+    "raw_type": "Workout",
+    "start_date_local": "2026-11-17T06:11:38Z",
+    "type": "GymCardio",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-17",
+    "distance": 3070.0,
+    "elevation_gain": 3.6,
+    "id": 21017878063,
+    "moving_time": 2024.0,
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-17T07:43:49Z",
+    "type": "WalkHike",
+    "year": 2026
   }
 ]
