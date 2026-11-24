@@ -57707,6 +57707,20 @@
       "subtype": "Elliptical",
       "type": "GymCardio",
       "year": 2026
+    },
+    {
+      "date": "2026-11-22",
+      "hour": 13,
+      "subtype": "Workout",
+      "type": "GymCardio",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-23",
+      "hour": 14,
+      "subtype": "Elliptical",
+      "type": "GymCardio",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -110842,12 +110856,22 @@
         },
         "2026-11-22": {
           "activity_ids": [
-            21085260853
+            21085260853,
+            21088934700
+          ],
+          "count": 2,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 18239.0
+        },
+        "2026-11-23": {
+          "activity_ids": [
+            21099861232
           ],
           "count": 1,
           "distance": 0.0,
           "elevation_gain": 0.0,
-          "moving_time": 5475.0
+          "moving_time": 5002.0
         }
       },
       "Ride": {
@@ -113605,7 +113629,7 @@
       }
     }
   },
-  "generated_at": "2026-11-22T20:56:47.864045+00:00",
+  "generated_at": "2026-11-24T02:01:22.098525+00:00",
   "other_bucket": "OtherSports",
   "type_meta": {
     "GymCardio": {
